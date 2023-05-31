@@ -4,7 +4,7 @@ import 'icon_container.dart';
 import 'reusible_widget.dart';
 import 'constants.dart';
 import 'result.dart';
-import 'bottom_buttom.dart';
+import 'bottom_button.dart';
 import 'round_button.dart';
 
 enum Gender { male, female }
